@@ -1,4 +1,5 @@
 # [Workshop 20 gennaio 2023](https://www.dcuci.univr.it/?ent=seminario&id=5841&lang=it)
+
 ## La produzione dei dati e contenuti archeologici tra Linee guida per l'archeologia preventiva, diritto d'autore e codice dei contratti pubblici
 
 A pochi mesi dal recepimento della Direttiva (UE) 2019/790, dall'uscita delle Nuove Linee guida dell'archeologia preventiva e dalla Legge 78/2022 (Delega al Governo in materia di contratti pubblici), l’obiettivo di questo workshop è di offrire a tutti, specialisti del settore e non, un incontro formativo e informativo.
