@@ -85,6 +85,7 @@ promotori di Foia4Italy.
 * in attesa di caricamento
 
  <br>
- #### Annuncio e Locandina del workshop
+ 
+ ### Annuncio e Locandina del workshop
 * [Annuncio](https://www.dcuci.univr.it/?ent=seminario&id=5841&lang=it)
 * [Locandina](https://www.dcuci.univr.it/documenti/Seminario/documenti/documenti890913.pdf)
