@@ -57,7 +57,7 @@ Technology, diritto d'autore, brevetti e marchi, in particolare con focus su sof
 Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Attivamente impegnato per la
 promozione del software libero e dei diritti fondamentali nel digital
 #### Slide dell'intervento* 
-* [Ciurcina documentazione archeoligica diritti](https://github.com/piergiovanna/DatiArcheo/blob/main/Ciurcina-diritti_documentazione_archeologica.pdf)
+* [Ciurcina documentazione archeologica diritti](https://github.com/piergiovanna/DatiArcheo/blob/main/Ciurcina-diritti_documentazione_archeologica.pdf)
  
 
 ### Dati archeologici e titolarità dei contenuti proteggibili tra legge e contratto
