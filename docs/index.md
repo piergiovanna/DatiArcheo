@@ -13,7 +13,7 @@ Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per 
 #### Relatrice: Piergiovanna Grossi
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e in quello geografico.
 #### Slide dell'intervento
-* in attesa di caricamento
+* [Grossi introduzione](https://github.com/piergiovanna/DatiArcheo/blob/main/Grossi-introduzione.pdf)
 
 ### Il DPCM 14 febbraio 2022 e le nuove modalità di redazione della VIARCH. problematiche, prospettive e opportunità in materia di apertura dei dati
 Con il DPCM 14 febbraio 2022 sono state emanate le nuove Linee Guida in materia di archeologia preventiva, previste
@@ -27,7 +27,7 @@ Archeologa delle province romane e dottore di ricerca in metodologia della ricer
 apertura dei dati archeologici; per l’ICA si occupa della realizzazione del Geoportale Nazionale per l’archeologia e ha
 partecipato alla stesura delle linee guida per l’archeologia preventiva
 #### Slide dell'intervento
-* in attesa di caricamento
+*  [Boi linee guida VIARCH](https://github.com/piergiovanna/DatiArcheo/blob/main/Boi-Verona20gennaio2023_GNA_def.pdf)
 
 ### Archeologia preventiva e valorizzazione: il sito longobardo di Monticello di Fara
 Tra settembre e dicembre 2020 in località Monticello di Fara, Sarego (VI), è stato indagato un cimitero di età
@@ -46,7 +46,7 @@ e le pubblicazioni "Verona e le sue strade" (2019) e "Il cavaliere longobardo di
 servizio presso la Direzione Generale ABAP, dove si occupa delle procedure di tutela archeologica in particolare della
 Campania e collabora con la Soprintendenza Speciale per il PNRR.
 #### Slide dell'intervento
-* in attesa di caricamento
+* [Cenci VIARCH un caso esempio](https://github.com/piergiovanna/DatiArcheo/blob/main/Cenci-Viarch_presentazione_workshop_Verona.pdf)
 
 ### I diritti sulla documentazione archeologica
 L’intervento tratta le norme che prevedono diritti sulla documentazione archeologica e sulla loro circolazione (Legge
@@ -57,7 +57,8 @@ Technology, diritto d'autore, brevetti e marchi, in particolare con focus su sof
 Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Attivamente impegnato per la
 promozione del software libero e dei diritti fondamentali nel digital
 #### Slide dell'intervento* 
-* in attesa di caricamento
+* [Ciurcina documentazione archeoligica diritti](https://github.com/piergiovanna/DatiArcheo/blob/main/Ciurcina-diritti_documentazione_archeologica.pdf)
+ 
 
 ### Dati archeologici e titolarità dei contenuti proteggibili tra legge e contratto
 L'intervento tratta i rapporti tra fonti legali e contrattuali nella titolarità dei contenuti proteggibili con riguardo ai dati
@@ -67,8 +68,8 @@ sensu alla proprietà intellettuale.
 Professore Associato di Diritto Commerciale presso il Dipartimento di Scienze Giuridiche
 dell'Università di Verona, è titolare di insegnamenti di Diritto della Proprietà Intellettuale in vari corsi di laurea
 #### Slide dell'intervento
-* in attesa di caricamento
- 
+* intervento senza slide
+
 ### Dati e appalti nel settore dei beni culturali e archeologici
 L'intervento tratta il regime dei dati acquisiti e prodotti nell’ambito di appalti pubblici, con particolare riferimento alla
 verifica preventiva dell’interesse archeologico. Nel corso dell’intervento sarà esaminata la normativa contenuta nel D.
