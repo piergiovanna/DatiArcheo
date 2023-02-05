@@ -5,7 +5,7 @@
 A pochi mesi dal recepimento della Direttiva (UE) 2019/790, dall'uscita delle Nuove Linee guida dell'archeologia preventiva e dalla Legge 78/2022 (Delega al Governo in materia di contratti pubblici), l’obiettivo di questo workshop è di offrire a tutti, specialisti del settore e non, un incontro formativo e informativo.
 Focus del workshop saranno i dati e contenuti archeologici, la loro produzione, digitalizzazione e divulgazione. Esperti di ambito giuridico e amministrativo tratteranno le recenti modifiche normative e risponderanno alle domande del pubblico.
 
-Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per i Beni Culturali, in collaborazione e con il contributo dell'associazione **[Wikimedia Italia](https://www.wikimedia.it/)**
+Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per i Beni Culturali, in collaborazione e con il contributo dell'associazione **[Wikimedia Italia](https://www.wikimedia.it/)**. E' il secondo di due workshop dedicati agli aggiornamenti normativi del 2022 relativi ai beni culturali. Il primo si è tenuto il 4 novembre 2022 ed è disonibile a [questo link](https://piergiovanna.github.io/DigitalBeniCulturali/). 
  
 ## Programma e slide degli interventi
 
