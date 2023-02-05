@@ -54,7 +54,7 @@ Campania e collabora con la Soprintendenza Speciale per il PNRR.
 ### I diritti sulla documentazione archeologica
 L’intervento tratta le norme che prevedono diritti sulla documentazione archeologica e sulla loro circolazione (Legge
 633/1941, Decreto Legislativo 42/2004, ecc.) anche alla luce delle recenti modifiche normative.
-#### Slide dell'intervento* 
+#### Slide dell'intervento
 * [Ciurcina documentazione archeologica diritti](https://github.com/piergiovanna/DatiArcheo/blob/main/Ciurcina-diritti_documentazione_archeologica.pdf)
 
 #### Relatore: Marco Ciurcina
