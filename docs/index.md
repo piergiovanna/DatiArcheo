@@ -12,7 +12,7 @@ Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per 
 ### Introduzione al workshop
 #### Slide dell'intervento
 * [Grossi introduzione](https://github.com/piergiovanna/DatiArcheo/blob/main/Grossi-introduzione.pdf)
-* #### Relatrice: Piergiovanna Grossi
+#### Relatrice: Piergiovanna Grossi
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e in quello geografico.
 
 ### Il DPCM 14 febbraio 2022 e le nuove modalità di redazione della VIARCH. problematiche, prospettive e opportunità in materia di apertura dei dati
