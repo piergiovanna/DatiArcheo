@@ -69,6 +69,7 @@ archeologici, analizzando forme e limiti di trasferimento e gestione dei relativ
 sensu alla proprietà intellettuale.
 #### Slide dell'intervento
 * intervento senza slide
+
 #### Relatore: Bernardo Calabrese
 Professore Associato di Diritto Commerciale presso il Dipartimento di Scienze Giuridiche
 dell'Università di Verona, è titolare di insegnamenti di Diritto della Proprietà Intellettuale in vari corsi di laurea.
