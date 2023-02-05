@@ -12,6 +12,7 @@ Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per 
 ### Introduzione al workshop
 #### Slide dell'intervento
 * [Grossi introduzione](https://github.com/piergiovanna/DatiArcheo/blob/main/Grossi-introduzione.pdf)
+
 #### Relatrice: Piergiovanna Grossi
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e in quello geografico.
 
@@ -23,6 +24,7 @@ VIARCH). La finalità di tale innovazione è da individuarsi nella volontà di s
 rappresentazione dei dati raccolti, in vista della loro pubblicazione sul Geoportale Nazionale dell'Archeologia.
 #### Slide dell'intervento
 *  [Boi linee guida VIARCH](https://github.com/piergiovanna/DatiArcheo/blob/main/Boi-Verona20gennaio2023_GNA_def.pdf)
+
 #### Relatrice: Valeria Boi
 Archeologa delle province romane e dottore di ricerca in metodologia della ricerca archeologica. Dal 2017
 è funzionaria archeologa presso l'Istituto Centrale per l'Archeologia. Si occupa in particolare di standardizzazione e
@@ -39,6 +41,7 @@ tomba del cavaliere di Monticello di Fara; il progetto si è concluso con la pub
 all'importante scoperta andato in stampa a novembre 2022.
 #### Slide dell'intervento
 * [Cenci VIARCH un caso esempio](https://github.com/piergiovanna/DatiArcheo/blob/main/Cenci-Viarch_presentazione_workshop_Verona.pdf)
+
 #### Relatrice: Claudia Cenci
 Archeologa classica con interessi di ricerca nel campo della coroplastica votiva, ha maturato
 un'esperienza ventennale presso il MIC occupandosi sia di attività di valorizzazione che di tutela. Già funzionario
@@ -53,6 +56,7 @@ L’intervento tratta le norme che prevedono diritti sulla documentazione archeo
 633/1941, Decreto Legislativo 42/2004, ecc.) anche alla luce delle recenti modifiche normative.
 #### Slide dell'intervento* 
 * [Ciurcina documentazione archeologica diritti](https://github.com/piergiovanna/DatiArcheo/blob/main/Ciurcina-diritti_documentazione_archeologica.pdf)
+
 #### Relatore: Marco Ciurcina
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information
 Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
@@ -76,6 +80,7 @@ Lgs. n. 50/2016 e saranno delineati gli scenari evolutivi alla luce della recent
 Codice dei Contratti Pubblici.
 #### Slide dell'intervento
 * in attesa di caricamento
+
 #### Relatore: Ernesto Belisario
 Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche
 dell’innovazione. È specializzato in diritto amministrativo. Si occupa di diritto delle tecnologie, protezione dei dati
