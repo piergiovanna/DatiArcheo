@@ -2,11 +2,13 @@
 
 ## La produzione dei dati e contenuti archeologici tra Linee guida per l'archeologia preventiva, diritto d'autore e codice dei contratti pubblici
 
-A pochi mesi dal recepimento della Direttiva (UE) 2019/790, dall'uscita delle Nuove Linee guida dell'archeologia preventiva e dalla Legge 78/2022 (Delega al Governo in materia di contratti pubblici), l’obiettivo di questo workshop è di offrire a tutti, specialisti del settore e non, un incontro formativo e informativo.
-Focus del workshop saranno i dati e contenuti archeologici, la loro produzione, digitalizzazione e divulgazione. Esperti di ambito giuridico e amministrativo tratteranno le recenti modifiche normative e risponderanno alle domande del pubblico.
+A pochi mesi dal recepimento della Direttiva (UE) 2019/790, dall'uscita delle Nuove Linee guida dell'archeologia preventiva e dalla Legge 78/2022 (Delega al Governo in materia di contratti pubblici), questo workshop ha avuto l'obiettivo di offrire a tutti, specialisti del settore e non, un incontro formativo e informativo.
+Focus del workshop sono stati i dati e contenuti archeologici, la loro produzione, digitalizzazione e divulgazione. Esperti di ambito giuridico e amministrativo hanno trattato le recenti modifiche normative e risposto alle domande del pubblico.
 
-Il workshop è organizzato nell'ambito del Laboratorio di Progettazione web per i Beni Culturali, in collaborazione e con il contributo dell'associazione **[Wikimedia Italia](https://www.wikimedia.it/)**. E' il secondo di due workshop dedicati agli aggiornamenti normativi del 2022 relativi ai beni culturali. Il primo si è tenuto il 4 novembre 2022 ed è disonibile a [questo link](https://piergiovanna.github.io/DigitalBeniCulturali/). 
- 
+Il workshop è stato organizzato nell'ambito del Laboratorio di Progettazione web per i Beni Culturali, **[Dipartimento di Culture e Civiltà](https://www.dcuci.univr.it/)**, Università degli Studi di Verona, in collaborazione e con il contributo dell'associazione **[Wikimedia Italia](https://www.wikimedia.it/)**. 
+
+E' stato il secondo di due workshop dedicati agli aggiornamenti normativi del 2022 relativi ai beni culturali. Il primo si è tenuto il 4 novembre 2022 ed è disponibile a questo link: **[Workshop 4 novembre 2022](https://piergiovanna.github.io/DigitalBeniCulturali/)**: *La Direttiva (UE) 2019/790 e le Linee guida del Piano nazionale di digitalizzazione del patrimonio culturale (PND) tra diritto d’autore e Codice dei Beni Culturali e del Paesaggio*. 
+
 ## Programma e slide degli interventi
 
 ### Introduzione al workshop
