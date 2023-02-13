@@ -12,7 +12,7 @@ E' stato il secondo di due workshop dedicati agli aggiornamenti normativi del 20
 ## Programma e slide degli interventi
 
 ### Introduzione al workshop
-Il 2022 è stato l'anno degli aggiornamenti normativi e legislativi per la digitalizzazione dei Beni Culturali. Il workshop è dedicato nello specifico agli aggiornamenti relativi al patrimonio archeologico. Si introduce il workshop con una sintesi delle peculiarità della ricerca archeologica e degli aggiornamenti normativi e legislativi che hanno interessato questo settore.
+Il 2022 è stato l'anno degli aggiornamenti normativi e legislativi per la digitalizzazione dei Beni Culturali. Il workshop è dedicato nello specifico agli aggiornamenti relativi al patrimonio archeologico. Questa introduzione propone una sintesi delle peculiarità della ricerca archeologica e degli aggiornamenti normativi e legislativi che hanno interessato questo settore.
 
 #### Slide dell'intervento
 * [Grossi introduzione](https://github.com/piergiovanna/DatiArcheo/blob/main/Grossi-introduzione.pdf)
