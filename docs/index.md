@@ -12,6 +12,8 @@ E' stato il secondo di due workshop dedicati agli aggiornamenti normativi del 20
 ## Programma e slide degli interventi
 
 ### Introduzione al workshop
+Il 2022 è stato l'anno degli aggiornamenti normativi e legislativi per la digitalizzazione dei Beni Culturali. Il workshop è dedicato nello specifico agli aggiornamenti relativi al patrimonio archeologico. Si introduce il workshop con una sintesi delle peculiarità della ricerca archeologica e degli aggiornamenti normativi e legislativi che hanno interessato questo settore.
+
 #### Slide dell'intervento
 * [Grossi introduzione](https://github.com/piergiovanna/DatiArcheo/blob/main/Grossi-introduzione.pdf)
 
@@ -82,7 +84,7 @@ verifica preventiva dell’interesse archeologico. Nel corso dell’intervento s
 Lgs. n. 50/2016 e saranno delineati gli scenari evolutivi alla luce della recente pubblicazione dello schema di nuovo
 Codice dei Contratti Pubblici.
 #### Slide dell'intervento
-* in attesa di caricamento
+* [Belisario Valutazione Archeologia Preventiva](https://github.com/piergiovanna/DatiArcheo/blob/main/ValutazioneArcheologicaPreventiva_Belisario.pdf)
 
 #### Relatore: Ernesto Belisario
 Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche
@@ -91,11 +93,25 @@ personali, innovazione e apertura delle pubbliche amministrazioni. Su questi tem
 docente in master e corsi di formazione e specializzazione. È curatore del progetto lapadigitale.it ed è stato tra i
 promotori di Foia4Italy.
 
- <br> 
- 
-#### Annuncio e Locandina del workshop
+### Discussione finale: trascrizione di sintesi
+Il testo qui allegato è un lavoro di sintesi realizzato a partire dalle domande scritte nella chat della sezione zoom o esposte verbalmente in sala. Non tutti gli interventi e quesiti del pubblico sono stati trascritti, in quanto in alcuni casi casi ripetizioni nella sostanza di quanto già discusso, in altri casi non strettamente pertinenti al tema trattato. 
+Si precisa che le risposte dei relatori qui trascritte sono risposte generiche a domande generiche, esprimono le opinioni personali di chi le ha espresse, non hanno natura di parere legale.
+Non si escludono errori di trascrizione, se si riscrontrano imprecisioni o se si ritengono opportune cancellazioni si prega di segnalarlo scrivendo alla responsabile del workshop, Piergiovanna Grossi (per i contatti si vedano l'annuncio o la locandina del workshop).
+
+* [Trascrizione di sintesi discussione](https://github.com/piergiovanna/DatiArcheo/blob/main/Workshop-20-gennaio-2023-trascrizione-discussione-finale.pdf)
+
+#### Intervengono: il pubblico e i relatori
+
+
+#### Il workshop si conclude alle 18.15
+<br> 
+________________________________________________
+
+#### Annuncio e Locandina
 * [Annuncio](https://www.dcuci.univr.it/?ent=seminario&id=5841&lang=it)
 * [Locandina](https://www.dcuci.univr.it/documenti/Seminario/documenti/documenti890913.pdf)
+
+#### Licenza
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dove non diversamente specificato (si vedano in merito i termini di licenza delle singole presentazioni) i contenuti di questa pagina si intendono licenziati secondo la Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
 
