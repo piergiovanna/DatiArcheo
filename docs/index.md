@@ -93,6 +93,9 @@ promotori di Foia4Italy.
 
  <br> 
  
- Annuncio e Locandina del workshop
+#### Annuncio e Locandina del workshop
 * [Annuncio](https://www.dcuci.univr.it/?ent=seminario&id=5841&lang=it)
 * [Locandina](https://www.dcuci.univr.it/documenti/Seminario/documenti/documenti890913.pdf)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dove non diversamente specificato (si vedano in merito i termini di licenza delle singole presentazioni) i contenuti di questa pagina si intendono licenziati secondo la Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
+
